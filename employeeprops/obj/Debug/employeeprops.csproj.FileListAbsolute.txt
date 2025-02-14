@@ -1,0 +1,7 @@
+C:\Users\bashi\source\repos\employeeprops\employeeprops\bin\Debug\employeeprops.exe.config
+C:\Users\bashi\source\repos\employeeprops\employeeprops\bin\Debug\employeeprops.exe
+C:\Users\bashi\source\repos\employeeprops\employeeprops\bin\Debug\employeeprops.pdb
+C:\Users\bashi\source\repos\employeeprops\employeeprops\obj\Debug\employeeprops.csproj.AssemblyReference.cache
+C:\Users\bashi\source\repos\employeeprops\employeeprops\obj\Debug\employeeprops.csproj.CoreCompileInputs.cache
+C:\Users\bashi\source\repos\employeeprops\employeeprops\obj\Debug\employeeprops.exe
+C:\Users\bashi\source\repos\employeeprops\employeeprops\obj\Debug\employeeprops.pdb
