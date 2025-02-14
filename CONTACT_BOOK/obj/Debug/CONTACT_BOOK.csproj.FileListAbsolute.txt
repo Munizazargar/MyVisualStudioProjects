@@ -1,0 +1,7 @@
+C:\Users\bashi\source\repos\CONTACT_BOOK\CONTACT_BOOK\bin\Debug\CONTACT_BOOK.exe.config
+C:\Users\bashi\source\repos\CONTACT_BOOK\CONTACT_BOOK\bin\Debug\CONTACT_BOOK.exe
+C:\Users\bashi\source\repos\CONTACT_BOOK\CONTACT_BOOK\bin\Debug\CONTACT_BOOK.pdb
+C:\Users\bashi\source\repos\CONTACT_BOOK\CONTACT_BOOK\obj\Debug\CONTACT_BOOK.csproj.AssemblyReference.cache
+C:\Users\bashi\source\repos\CONTACT_BOOK\CONTACT_BOOK\obj\Debug\CONTACT_BOOK.csproj.CoreCompileInputs.cache
+C:\Users\bashi\source\repos\CONTACT_BOOK\CONTACT_BOOK\obj\Debug\CONTACT_BOOK.exe
+C:\Users\bashi\source\repos\CONTACT_BOOK\CONTACT_BOOK\obj\Debug\CONTACT_BOOK.pdb
