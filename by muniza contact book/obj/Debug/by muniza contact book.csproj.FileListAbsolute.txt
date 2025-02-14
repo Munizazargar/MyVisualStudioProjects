@@ -1,0 +1,7 @@
+C:\Users\bashi\source\repos\by muniza contact book\by muniza contact book\obj\Debug\by muniza contact book.csproj.AssemblyReference.cache
+C:\Users\bashi\source\repos\by muniza contact book\by muniza contact book\obj\Debug\by muniza contact book.csproj.CoreCompileInputs.cache
+C:\Users\bashi\source\repos\by muniza contact book\by muniza contact book\bin\Debug\by muniza contact book.exe.config
+C:\Users\bashi\source\repos\by muniza contact book\by muniza contact book\bin\Debug\by muniza contact book.exe
+C:\Users\bashi\source\repos\by muniza contact book\by muniza contact book\bin\Debug\by muniza contact book.pdb
+C:\Users\bashi\source\repos\by muniza contact book\by muniza contact book\obj\Debug\by muniza contact book.exe
+C:\Users\bashi\source\repos\by muniza contact book\by muniza contact book\obj\Debug\by muniza contact book.pdb
