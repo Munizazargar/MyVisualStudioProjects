@@ -1,0 +1,7 @@
+C:\Users\bashi\source\repos\TXT_FILE\TXT_FILE\bin\Debug\TXT_FILE.exe.config
+C:\Users\bashi\source\repos\TXT_FILE\TXT_FILE\bin\Debug\TXT_FILE.exe
+C:\Users\bashi\source\repos\TXT_FILE\TXT_FILE\bin\Debug\TXT_FILE.pdb
+C:\Users\bashi\source\repos\TXT_FILE\TXT_FILE\obj\Debug\TXT_FILE.csproj.AssemblyReference.cache
+C:\Users\bashi\source\repos\TXT_FILE\TXT_FILE\obj\Debug\TXT_FILE.csproj.CoreCompileInputs.cache
+C:\Users\bashi\source\repos\TXT_FILE\TXT_FILE\obj\Debug\TXT_FILE.exe
+C:\Users\bashi\source\repos\TXT_FILE\TXT_FILE\obj\Debug\TXT_FILE.pdb
