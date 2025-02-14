@@ -1,0 +1,7 @@
+C:\Users\bashi\source\repos\ACCOUNTS\ACCOUNTS\bin\Debug\ACCOUNTS.exe.config
+C:\Users\bashi\source\repos\ACCOUNTS\ACCOUNTS\bin\Debug\ACCOUNTS.exe
+C:\Users\bashi\source\repos\ACCOUNTS\ACCOUNTS\bin\Debug\ACCOUNTS.pdb
+C:\Users\bashi\source\repos\ACCOUNTS\ACCOUNTS\obj\Debug\ACCOUNTS.csproj.AssemblyReference.cache
+C:\Users\bashi\source\repos\ACCOUNTS\ACCOUNTS\obj\Debug\ACCOUNTS.csproj.CoreCompileInputs.cache
+C:\Users\bashi\source\repos\ACCOUNTS\ACCOUNTS\obj\Debug\ACCOUNTS.exe
+C:\Users\bashi\source\repos\ACCOUNTS\ACCOUNTS\obj\Debug\ACCOUNTS.pdb
