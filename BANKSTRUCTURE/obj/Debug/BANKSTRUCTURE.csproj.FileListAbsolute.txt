@@ -1,0 +1,7 @@
+C:\Users\bashi\source\repos\BANKSTRUCTURE\BANKSTRUCTURE\bin\Debug\BANKSTRUCTURE.exe.config
+C:\Users\bashi\source\repos\BANKSTRUCTURE\BANKSTRUCTURE\bin\Debug\BANKSTRUCTURE.exe
+C:\Users\bashi\source\repos\BANKSTRUCTURE\BANKSTRUCTURE\bin\Debug\BANKSTRUCTURE.pdb
+C:\Users\bashi\source\repos\BANKSTRUCTURE\BANKSTRUCTURE\obj\Debug\BANKSTRUCTURE.csproj.AssemblyReference.cache
+C:\Users\bashi\source\repos\BANKSTRUCTURE\BANKSTRUCTURE\obj\Debug\BANKSTRUCTURE.csproj.CoreCompileInputs.cache
+C:\Users\bashi\source\repos\BANKSTRUCTURE\BANKSTRUCTURE\obj\Debug\BANKSTRUCTURE.exe
+C:\Users\bashi\source\repos\BANKSTRUCTURE\BANKSTRUCTURE\obj\Debug\BANKSTRUCTURE.pdb
