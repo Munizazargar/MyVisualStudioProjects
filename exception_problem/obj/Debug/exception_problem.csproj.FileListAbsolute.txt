@@ -1,0 +1,7 @@
+C:\Users\bashi\source\repos\exception_problem\exception_problem\bin\Debug\exception_problem.exe.config
+C:\Users\bashi\source\repos\exception_problem\exception_problem\bin\Debug\exception_problem.exe
+C:\Users\bashi\source\repos\exception_problem\exception_problem\bin\Debug\exception_problem.pdb
+C:\Users\bashi\source\repos\exception_problem\exception_problem\obj\Debug\exception_problem.csproj.AssemblyReference.cache
+C:\Users\bashi\source\repos\exception_problem\exception_problem\obj\Debug\exception_problem.csproj.CoreCompileInputs.cache
+C:\Users\bashi\source\repos\exception_problem\exception_problem\obj\Debug\exception_problem.exe
+C:\Users\bashi\source\repos\exception_problem\exception_problem\obj\Debug\exception_problem.pdb
