@@ -1,0 +1,7 @@
+C:\Users\bashi\source\repos\constructor2.0\constructor2.0\bin\Debug\constructor2.0.exe.config
+C:\Users\bashi\source\repos\constructor2.0\constructor2.0\bin\Debug\constructor2.0.exe
+C:\Users\bashi\source\repos\constructor2.0\constructor2.0\bin\Debug\constructor2.0.pdb
+C:\Users\bashi\source\repos\constructor2.0\constructor2.0\obj\Debug\constructor2.0.csproj.AssemblyReference.cache
+C:\Users\bashi\source\repos\constructor2.0\constructor2.0\obj\Debug\constructor2.0.csproj.CoreCompileInputs.cache
+C:\Users\bashi\source\repos\constructor2.0\constructor2.0\obj\Debug\constructor2.0.exe
+C:\Users\bashi\source\repos\constructor2.0\constructor2.0\obj\Debug\constructor2.0.pdb
