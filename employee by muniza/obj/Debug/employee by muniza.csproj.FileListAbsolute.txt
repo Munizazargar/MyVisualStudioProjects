@@ -1,0 +1,7 @@
+C:\Users\bashi\source\repos\employee by muniza\employee by muniza\bin\Debug\employee by muniza.exe.config
+C:\Users\bashi\source\repos\employee by muniza\employee by muniza\bin\Debug\employee by muniza.exe
+C:\Users\bashi\source\repos\employee by muniza\employee by muniza\bin\Debug\employee by muniza.pdb
+C:\Users\bashi\source\repos\employee by muniza\employee by muniza\obj\Debug\employee by muniza.csproj.AssemblyReference.cache
+C:\Users\bashi\source\repos\employee by muniza\employee by muniza\obj\Debug\employee by muniza.csproj.CoreCompileInputs.cache
+C:\Users\bashi\source\repos\employee by muniza\employee by muniza\obj\Debug\employee by muniza.exe
+C:\Users\bashi\source\repos\employee by muniza\employee by muniza\obj\Debug\employee by muniza.pdb
