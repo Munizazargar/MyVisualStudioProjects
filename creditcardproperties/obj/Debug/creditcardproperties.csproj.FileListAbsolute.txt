@@ -1,0 +1,7 @@
+C:\Users\bashi\source\repos\creditcardproperties\creditcardproperties\obj\Debug\creditcardproperties.csproj.AssemblyReference.cache
+C:\Users\bashi\source\repos\creditcardproperties\creditcardproperties\obj\Debug\creditcardproperties.csproj.CoreCompileInputs.cache
+C:\Users\bashi\source\repos\creditcardproperties\creditcardproperties\bin\Debug\creditcardproperties.exe.config
+C:\Users\bashi\source\repos\creditcardproperties\creditcardproperties\bin\Debug\creditcardproperties.exe
+C:\Users\bashi\source\repos\creditcardproperties\creditcardproperties\bin\Debug\creditcardproperties.pdb
+C:\Users\bashi\source\repos\creditcardproperties\creditcardproperties\obj\Debug\creditcardproperties.exe
+C:\Users\bashi\source\repos\creditcardproperties\creditcardproperties\obj\Debug\creditcardproperties.pdb
