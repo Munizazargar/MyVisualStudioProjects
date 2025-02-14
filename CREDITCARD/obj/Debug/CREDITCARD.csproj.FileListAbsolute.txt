@@ -1,0 +1,7 @@
+C:\Users\bashi\source\repos\CREDITCARD\CREDITCARD\bin\Debug\CREDITCARD.exe.config
+C:\Users\bashi\source\repos\CREDITCARD\CREDITCARD\bin\Debug\CREDITCARD.exe
+C:\Users\bashi\source\repos\CREDITCARD\CREDITCARD\bin\Debug\CREDITCARD.pdb
+C:\Users\bashi\source\repos\CREDITCARD\CREDITCARD\obj\Debug\CREDITCARD.csproj.AssemblyReference.cache
+C:\Users\bashi\source\repos\CREDITCARD\CREDITCARD\obj\Debug\CREDITCARD.csproj.CoreCompileInputs.cache
+C:\Users\bashi\source\repos\CREDITCARD\CREDITCARD\obj\Debug\CREDITCARD.exe
+C:\Users\bashi\source\repos\CREDITCARD\CREDITCARD\obj\Debug\CREDITCARD.pdb
