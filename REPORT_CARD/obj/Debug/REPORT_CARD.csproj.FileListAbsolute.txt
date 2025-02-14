@@ -1,0 +1,7 @@
+C:\Users\bashi\source\repos\REPORT_CARD\REPORT_CARD\bin\Debug\REPORT_CARD.exe.config
+C:\Users\bashi\source\repos\REPORT_CARD\REPORT_CARD\bin\Debug\REPORT_CARD.exe
+C:\Users\bashi\source\repos\REPORT_CARD\REPORT_CARD\bin\Debug\REPORT_CARD.pdb
+C:\Users\bashi\source\repos\REPORT_CARD\REPORT_CARD\obj\Debug\REPORT_CARD.csproj.AssemblyReference.cache
+C:\Users\bashi\source\repos\REPORT_CARD\REPORT_CARD\obj\Debug\REPORT_CARD.csproj.CoreCompileInputs.cache
+C:\Users\bashi\source\repos\REPORT_CARD\REPORT_CARD\obj\Debug\REPORT_CARD.exe
+C:\Users\bashi\source\repos\REPORT_CARD\REPORT_CARD\obj\Debug\REPORT_CARD.pdb
