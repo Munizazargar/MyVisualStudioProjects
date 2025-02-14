@@ -1,0 +1,7 @@
+C:\Users\bashi\source\repos\exception handling\exception handling\bin\Debug\exception handling.exe.config
+C:\Users\bashi\source\repos\exception handling\exception handling\bin\Debug\exception handling.exe
+C:\Users\bashi\source\repos\exception handling\exception handling\bin\Debug\exception handling.pdb
+C:\Users\bashi\source\repos\exception handling\exception handling\obj\Debug\exception handling.csproj.AssemblyReference.cache
+C:\Users\bashi\source\repos\exception handling\exception handling\obj\Debug\exception handling.csproj.CoreCompileInputs.cache
+C:\Users\bashi\source\repos\exception handling\exception handling\obj\Debug\exception handling.exe
+C:\Users\bashi\source\repos\exception handling\exception handling\obj\Debug\exception handling.pdb
