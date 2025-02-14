@@ -1,0 +1,7 @@
+C:\Users\bashi\source\repos\averagearray\averagearray\bin\Debug\averagearray.exe.config
+C:\Users\bashi\source\repos\averagearray\averagearray\bin\Debug\averagearray.exe
+C:\Users\bashi\source\repos\averagearray\averagearray\bin\Debug\averagearray.pdb
+C:\Users\bashi\source\repos\averagearray\averagearray\obj\Debug\averagearray.csproj.AssemblyReference.cache
+C:\Users\bashi\source\repos\averagearray\averagearray\obj\Debug\averagearray.csproj.CoreCompileInputs.cache
+C:\Users\bashi\source\repos\averagearray\averagearray\obj\Debug\averagearray.exe
+C:\Users\bashi\source\repos\averagearray\averagearray\obj\Debug\averagearray.pdb
