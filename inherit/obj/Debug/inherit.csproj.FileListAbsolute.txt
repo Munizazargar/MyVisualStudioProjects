@@ -1,0 +1,7 @@
+C:\Users\bashi\source\repos\inherit\inherit\bin\Debug\inherit.exe.config
+C:\Users\bashi\source\repos\inherit\inherit\bin\Debug\inherit.exe
+C:\Users\bashi\source\repos\inherit\inherit\bin\Debug\inherit.pdb
+C:\Users\bashi\source\repos\inherit\inherit\obj\Debug\inherit.csproj.AssemblyReference.cache
+C:\Users\bashi\source\repos\inherit\inherit\obj\Debug\inherit.csproj.CoreCompileInputs.cache
+C:\Users\bashi\source\repos\inherit\inherit\obj\Debug\inherit.exe
+C:\Users\bashi\source\repos\inherit\inherit\obj\Debug\inherit.pdb
