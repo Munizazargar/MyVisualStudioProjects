@@ -1,0 +1,7 @@
+C:\Users\bashi\source\repos\encapsulationoops\encapsulationoops\bin\Debug\encapsulationoops.exe.config
+C:\Users\bashi\source\repos\encapsulationoops\encapsulationoops\bin\Debug\encapsulationoops.exe
+C:\Users\bashi\source\repos\encapsulationoops\encapsulationoops\bin\Debug\encapsulationoops.pdb
+C:\Users\bashi\source\repos\encapsulationoops\encapsulationoops\obj\Debug\encapsulationoops.csproj.AssemblyReference.cache
+C:\Users\bashi\source\repos\encapsulationoops\encapsulationoops\obj\Debug\encapsulationoops.csproj.CoreCompileInputs.cache
+C:\Users\bashi\source\repos\encapsulationoops\encapsulationoops\obj\Debug\encapsulationoops.exe
+C:\Users\bashi\source\repos\encapsulationoops\encapsulationoops\obj\Debug\encapsulationoops.pdb
