@@ -1,0 +1,14 @@
+C:\Users\bashi\source\repos\bookstore\bookstore\bin\Debug\bookstore.exe.config
+C:\Users\bashi\source\repos\bookstore\bookstore\bin\Debug\bookstore.exe
+C:\Users\bashi\source\repos\bookstore\bookstore\bin\Debug\bookstore.pdb
+C:\Users\bashi\source\repos\bookstore\bookstore\obj\Debug\bookstore.csproj.AssemblyReference.cache
+C:\Users\bashi\source\repos\bookstore\bookstore\obj\Debug\bookstore.csproj.CoreCompileInputs.cache
+C:\Users\bashi\source\repos\bookstore\bookstore\obj\Debug\bookstore.exe
+C:\Users\bashi\source\repos\bookstore\bookstore\obj\Debug\bookstore.pdb
+C:\Users\bashi\source\repos\bookstore - Copy (2)\bookstore\bin\Debug\bookstore.exe.config
+C:\Users\bashi\source\repos\bookstore - Copy (2)\bookstore\bin\Debug\bookstore.exe
+C:\Users\bashi\source\repos\bookstore - Copy (2)\bookstore\bin\Debug\bookstore.pdb
+C:\Users\bashi\source\repos\bookstore - Copy (2)\bookstore\obj\Debug\bookstore.csproj.AssemblyReference.cache
+C:\Users\bashi\source\repos\bookstore - Copy (2)\bookstore\obj\Debug\bookstore.csproj.CoreCompileInputs.cache
+C:\Users\bashi\source\repos\bookstore - Copy (2)\bookstore\obj\Debug\bookstore.exe
+C:\Users\bashi\source\repos\bookstore - Copy (2)\bookstore\obj\Debug\bookstore.pdb
