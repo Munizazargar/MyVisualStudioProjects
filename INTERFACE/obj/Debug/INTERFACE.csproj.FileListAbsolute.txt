@@ -1,0 +1,7 @@
+C:\Users\bashi\source\repos\INTERFACE\INTERFACE\bin\Debug\INTERFACE.exe.config
+C:\Users\bashi\source\repos\INTERFACE\INTERFACE\bin\Debug\INTERFACE.exe
+C:\Users\bashi\source\repos\INTERFACE\INTERFACE\bin\Debug\INTERFACE.pdb
+C:\Users\bashi\source\repos\INTERFACE\INTERFACE\obj\Debug\INTERFACE.csproj.AssemblyReference.cache
+C:\Users\bashi\source\repos\INTERFACE\INTERFACE\obj\Debug\INTERFACE.csproj.CoreCompileInputs.cache
+C:\Users\bashi\source\repos\INTERFACE\INTERFACE\obj\Debug\INTERFACE.exe
+C:\Users\bashi\source\repos\INTERFACE\INTERFACE\obj\Debug\INTERFACE.pdb
