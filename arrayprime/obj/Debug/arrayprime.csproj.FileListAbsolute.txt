@@ -1,0 +1,7 @@
+C:\Users\bashi\source\repos\arrayprime\arrayprime\bin\Debug\arrayprime.exe.config
+C:\Users\bashi\source\repos\arrayprime\arrayprime\bin\Debug\arrayprime.exe
+C:\Users\bashi\source\repos\arrayprime\arrayprime\bin\Debug\arrayprime.pdb
+C:\Users\bashi\source\repos\arrayprime\arrayprime\obj\Debug\arrayprime.csproj.AssemblyReference.cache
+C:\Users\bashi\source\repos\arrayprime\arrayprime\obj\Debug\arrayprime.csproj.CoreCompileInputs.cache
+C:\Users\bashi\source\repos\arrayprime\arrayprime\obj\Debug\arrayprime.exe
+C:\Users\bashi\source\repos\arrayprime\arrayprime\obj\Debug\arrayprime.pdb
