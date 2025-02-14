@@ -1,0 +1,7 @@
+C:\Users\bashi\source\repos\problemcollections\problemcollections\obj\Debug\problemcollections.csproj.AssemblyReference.cache
+C:\Users\bashi\source\repos\problemcollections\problemcollections\obj\Debug\problemcollections.csproj.CoreCompileInputs.cache
+C:\Users\bashi\source\repos\problemcollections\problemcollections\bin\Debug\problemcollections.exe.config
+C:\Users\bashi\source\repos\problemcollections\problemcollections\bin\Debug\problemcollections.exe
+C:\Users\bashi\source\repos\problemcollections\problemcollections\bin\Debug\problemcollections.pdb
+C:\Users\bashi\source\repos\problemcollections\problemcollections\obj\Debug\problemcollections.exe
+C:\Users\bashi\source\repos\problemcollections\problemcollections\obj\Debug\problemcollections.pdb
