@@ -1,0 +1,7 @@
+C:\Users\bashi\source\repos\POLYMORPHISIM\POLYMORPHISIM\bin\Debug\POLYMORPHISIM.exe.config
+C:\Users\bashi\source\repos\POLYMORPHISIM\POLYMORPHISIM\bin\Debug\POLYMORPHISIM.exe
+C:\Users\bashi\source\repos\POLYMORPHISIM\POLYMORPHISIM\bin\Debug\POLYMORPHISIM.pdb
+C:\Users\bashi\source\repos\POLYMORPHISIM\POLYMORPHISIM\obj\Debug\POLYMORPHISIM.csproj.AssemblyReference.cache
+C:\Users\bashi\source\repos\POLYMORPHISIM\POLYMORPHISIM\obj\Debug\POLYMORPHISIM.csproj.CoreCompileInputs.cache
+C:\Users\bashi\source\repos\POLYMORPHISIM\POLYMORPHISIM\obj\Debug\POLYMORPHISIM.exe
+C:\Users\bashi\source\repos\POLYMORPHISIM\POLYMORPHISIM\obj\Debug\POLYMORPHISIM.pdb
