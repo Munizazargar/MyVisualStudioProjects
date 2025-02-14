@@ -1,0 +1,7 @@
+C:\Users\bashi\source\repos\sw\sw\bin\Debug\sw.exe.config
+C:\Users\bashi\source\repos\sw\sw\bin\Debug\sw.exe
+C:\Users\bashi\source\repos\sw\sw\bin\Debug\sw.pdb
+C:\Users\bashi\source\repos\sw\sw\obj\Debug\sw.csproj.AssemblyReference.cache
+C:\Users\bashi\source\repos\sw\sw\obj\Debug\sw.csproj.CoreCompileInputs.cache
+C:\Users\bashi\source\repos\sw\sw\obj\Debug\sw.exe
+C:\Users\bashi\source\repos\sw\sw\obj\Debug\sw.pdb
