@@ -1,0 +1,7 @@
+C:\Users\bashi\source\repos\keywords\keywords\bin\Debug\keywords.exe.config
+C:\Users\bashi\source\repos\keywords\keywords\bin\Debug\keywords.exe
+C:\Users\bashi\source\repos\keywords\keywords\bin\Debug\keywords.pdb
+C:\Users\bashi\source\repos\keywords\keywords\obj\Debug\keywords.csproj.AssemblyReference.cache
+C:\Users\bashi\source\repos\keywords\keywords\obj\Debug\keywords.csproj.CoreCompileInputs.cache
+C:\Users\bashi\source\repos\keywords\keywords\obj\Debug\keywords.exe
+C:\Users\bashi\source\repos\keywords\keywords\obj\Debug\keywords.pdb
