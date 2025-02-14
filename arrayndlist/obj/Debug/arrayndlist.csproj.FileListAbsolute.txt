@@ -1,0 +1,7 @@
+C:\Users\bashi\source\repos\arrayndlist\arrayndlist\bin\Debug\arrayndlist.exe.config
+C:\Users\bashi\source\repos\arrayndlist\arrayndlist\bin\Debug\arrayndlist.exe
+C:\Users\bashi\source\repos\arrayndlist\arrayndlist\bin\Debug\arrayndlist.pdb
+C:\Users\bashi\source\repos\arrayndlist\arrayndlist\obj\Debug\arrayndlist.csproj.AssemblyReference.cache
+C:\Users\bashi\source\repos\arrayndlist\arrayndlist\obj\Debug\arrayndlist.csproj.CoreCompileInputs.cache
+C:\Users\bashi\source\repos\arrayndlist\arrayndlist\obj\Debug\arrayndlist.exe
+C:\Users\bashi\source\repos\arrayndlist\arrayndlist\obj\Debug\arrayndlist.pdb
