@@ -1,0 +1,7 @@
+C:\Users\bashi\source\repos\BILLING\BILLING\obj\Debug\BILLING.csproj.AssemblyReference.cache
+C:\Users\bashi\source\repos\BILLING\BILLING\obj\Debug\BILLING.csproj.CoreCompileInputs.cache
+C:\Users\bashi\source\repos\BILLING\BILLING\bin\Debug\BILLING.exe.config
+C:\Users\bashi\source\repos\BILLING\BILLING\bin\Debug\BILLING.exe
+C:\Users\bashi\source\repos\BILLING\BILLING\bin\Debug\BILLING.pdb
+C:\Users\bashi\source\repos\BILLING\BILLING\obj\Debug\BILLING.exe
+C:\Users\bashi\source\repos\BILLING\BILLING\obj\Debug\BILLING.pdb
