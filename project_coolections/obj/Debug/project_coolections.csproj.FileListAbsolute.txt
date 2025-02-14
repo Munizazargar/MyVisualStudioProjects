@@ -1,0 +1,7 @@
+C:\Users\bashi\source\repos\project_coolections\project_coolections\bin\Debug\project_coolections.exe.config
+C:\Users\bashi\source\repos\project_coolections\project_coolections\bin\Debug\project_coolections.exe
+C:\Users\bashi\source\repos\project_coolections\project_coolections\bin\Debug\project_coolections.pdb
+C:\Users\bashi\source\repos\project_coolections\project_coolections\obj\Debug\project_coolections.csproj.AssemblyReference.cache
+C:\Users\bashi\source\repos\project_coolections\project_coolections\obj\Debug\project_coolections.csproj.CoreCompileInputs.cache
+C:\Users\bashi\source\repos\project_coolections\project_coolections\obj\Debug\project_coolections.exe
+C:\Users\bashi\source\repos\project_coolections\project_coolections\obj\Debug\project_coolections.pdb
