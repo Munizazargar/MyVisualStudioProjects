@@ -1,0 +1,7 @@
+C:\Users\bashi\source\repos\muniza list stack que\muniza list stack que\bin\Debug\muniza list stack que.exe.config
+C:\Users\bashi\source\repos\muniza list stack que\muniza list stack que\bin\Debug\muniza list stack que.exe
+C:\Users\bashi\source\repos\muniza list stack que\muniza list stack que\bin\Debug\muniza list stack que.pdb
+C:\Users\bashi\source\repos\muniza list stack que\muniza list stack que\obj\Debug\muniza list stack que.csproj.AssemblyReference.cache
+C:\Users\bashi\source\repos\muniza list stack que\muniza list stack que\obj\Debug\muniza list stack que.csproj.CoreCompileInputs.cache
+C:\Users\bashi\source\repos\muniza list stack que\muniza list stack que\obj\Debug\muniza list stack que.exe
+C:\Users\bashi\source\repos\muniza list stack que\muniza list stack que\obj\Debug\muniza list stack que.pdb
